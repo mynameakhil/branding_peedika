@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Website design concept for a sample textile brand">
+  <rect width="1200" height="900" fill="#E9ECF0"/>
+  <g font-family="Helvetica Neue, Arial, sans-serif">
+    <text x="60" y="58" font-size="14" letter-spacing="4" fill="#3C5A78" font-weight="700">WEBSITE DESIGN CONCEPT</text>
+    <text x="60" y="94" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#142B4A">Nila Textiles</text>
+    <text x="1140" y="92" text-anchor="end" font-size="13" fill="#6E7B8A" letter-spacing="2">DESKTOP + MOBILE</text>
+  </g>
+
+  <!-- browser -->
+  <g transform="translate(70,140)">
+    <rect width="1060" height="690" rx="14" fill="#FFFFFF"/>
+    <rect width="1060" height="46" rx="14" fill="#EDF0F4"/>
+    <rect x="0" y="30" width="1060" height="16" fill="#EDF0F4"/>
+    <circle cx="28" cy="23" r="6" fill="#D3D9E1"/>
+    <circle cx="48" cy="23" r="6" fill="#D3D9E1"/>
+    <circle cx="68" cy="23" r="6" fill="#D3D9E1"/>
+    <rect x="110" y="12" width="480" height="24" rx="6" fill="#FFFFFF"/>
+    <text x="128" y="29" font-size="12" fill="#8C99A8">nilatextiles.example</text>
+
+    <!-- nav -->
+    <g transform="translate(0,46)">
+      <rect width="1060" height="62" fill="#FFFFFF"/>
+      <text x="40" y="40" font-family="Georgia, 'Times New Roman', serif" font-size="21" fill="#142B4A" letter-spacing="1.5">NILA</text>
+      <g font-size="12.5" fill="#48586B">
+        <text x="700" y="38">Sarees</text>
+        <text x="770" y="38">Home</text>
+        <text x="830" y="38">Journal</text>
+        <text x="900" y="38">About</text>
+      </g>
+      <rect x="956" y="16" width="76" height="30" rx="15" fill="#142B4A"/>
+      <text x="994" y="35" text-anchor="middle" font-size="11.5" fill="#FFFFFF">Enquiry</text>
+      <line x1="0" y1="62" x2="1060" y2="62" stroke="#E4E8ED"/>
+    </g>
+
+    <!-- hero -->
+    <g transform="translate(0,108)">
+      <rect width="1060" height="250" fill="#142B4A"/>
+      <circle cx="820" cy="125" r="150" fill="#1E3A61"/>
+      <circle cx="900" cy="70" r="78" fill="#F2B544" opacity="0.18"/>
+      <text x="60" y="86" font-size="12" letter-spacing="4" fill="#F2B544">HANDWOVEN IN KERALA</text>
+      <text x="60" y="140" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#FFFFFF">Cloth that remembers</text>
+      <text x="60" y="176" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#FFFFFF">where it was made.</text>
+      <rect x="60" y="198" width="132" height="34" rx="17" fill="#F2B544"/>
+      <text x="126" y="220" text-anchor="middle" font-size="12.5" fill="#0B1930" font-weight="700">Shop the edit</text>
+      <g stroke="#F2B544" stroke-width="1.6" fill="none" opacity="0.55">
+        <path d="M740 200 q40-90 90-30 q40 48 80-20"/>
+        <path d="M760 210 q30-70 70-20 q34 40 66-16"/>
+      </g>
+    </g>
+
+    <!-- product grid -->
+    <g transform="translate(0,380)">
+      <text x="60" y="40" font-size="13" letter-spacing="3.5" fill="#6E7B8A" font-weight="700">THE EDIT</text>
+      <g>
+        <rect x="60" y="64" width="290" height="180" rx="8" fill="#E4E0D6"/>
+        <path d="M110 244 L150 108 L205 108 L245 244 Z" fill="#C2A878"/>
+        <rect x="380" y="64" width="290" height="180" rx="8" fill="#DDE4E6"/>
+        <path d="M430 244 L470 108 L525 108 L565 244 Z" fill="#7C97A0"/>
+        <rect x="700" y="64" width="290" height="180" rx="8" fill="#E7DCD6"/>
+        <path d="M750 244 L790 108 L845 108 L885 244 Z" fill="#B57A6A"/>
+      </g>
+      <g font-size="13" fill="#142B4A">
+        <text x="60" y="274">Kota cotton saree</text>
+        <text x="380" y="274">Linen set</text>
+        <text x="700" y="274">Silk stole</text>
+      </g>
+      <g font-size="12" fill="#8C99A8">
+        <text x="60" y="294">₹ 4,200</text>
+        <text x="380" y="294">₹ 2,850</text>
+        <text x="700" y="294">₹ 1,950</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- phone -->
+  <g transform="translate(830,470)">
+    <rect width="220" height="400" rx="26" fill="#142B4A"/>
+    <rect x="8" y="8" width="204" height="384" rx="20" fill="#FFFFFF"/>
+    <rect x="86" y="14" width="48" height="8" rx="4" fill="#142B4A"/>
+    <rect x="8" y="36" width="204" height="120" fill="#1E3A61"/>
+    <text x="24" y="76" font-size="8.5" letter-spacing="2" fill="#F2B544">NEW</text>
+    <text x="24" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#FFFFFF">Everyday</text>
+    <text x="24" y="128" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#FFFFFF">cotton</text>
+    <rect x="8" y="168" width="98" height="96" rx="6" fill="#E4E0D6"/>
+    <rect x="114" y="168" width="98" height="96" rx="6" fill="#DDE4E6"/>
+    <rect x="8" y="274" width="204" height="52" rx="8" fill="#142B4A"/>
+    <text x="110" y="306" text-anchor="middle" font-size="11.5" fill="#FFFFFF" font-weight="700">Add to enquiry</text>
+  </g>
+
+  <rect x="0" y="866" width="1200" height="34" fill="#142B4A"/>
+  <text x="40" y="888" font-family="Helvetica Neue, Arial, sans-serif" font-size="11.5" letter-spacing="2.5" fill="#F2B544" font-weight="700">SAMPLE CONCEPT — NOT CLIENT WORK</text>
+  <text x="1160" y="888" text-anchor="end" font-family="Helvetica Neue, Arial, sans-serif" font-size="11.5" fill="#8FA0B4">Branding Peedika · concept 04</text>
+</svg>

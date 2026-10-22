@@ -1,0 +1,23 @@
+{
+  "name": "branding-peedika-tools",
+  "version": "1.0.0",
+  "description": "Optional tooling for the Branding Peedika static site. None of this is needed to serve, build or deploy the site itself.",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "build": "node build-site.js",
+    "validate": "node validate.js",
+    "audit": "node audit.js",
+    "serve": "node serve.js -p 8080"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axe-core": "^4.14.0",
+    "puppeteer-core": "^25.15.0"
+  },
+  "optionalDependencies": {
+    "sharp": "^0.35.5"
+  }
+}

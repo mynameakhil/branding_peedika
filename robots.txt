@@ -1,0 +1,15 @@
+# robots.txt — Branding Peedika
+# ---------------------------------------------------------------------------
+# REPLACE https://www.brandingpeedika.com with the live domain if it differs.
+# This file must live at the site root.
+
+User-agent: *
+Allow: /
+
+# The custom error page has no useful content and should never be indexed.
+Disallow: /404.html
+
+# Crawl the whole site — there is nothing private here.
+# If you later add a staging area or a private client portal, disallow it here.
+
+Sitemap: https://www.brandingpeedika.com/sitemap.xml

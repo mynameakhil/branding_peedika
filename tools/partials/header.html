@@ -1,0 +1,43 @@
+<header class="site-header">
+  <div class="container site-header__inner">
+    <a class="wordmark" href="/">
+      <span class="wordmark__text">
+        <span class="wordmark__name">Branding Peedika</span>
+        <span class="wordmark__tag">Where Every Brand Begins.</span>
+      </span>
+    </a>
+
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Open menu">
+      <span class="visually-hidden" data-nav-label>Open menu</span>
+      <svg class="nav-toggle__open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><line x1="3" y1="7" x2="21" y2="7"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="17" x2="21" y2="17"/></svg>
+      <svg class="nav-toggle__close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><line x1="5" y1="5" x2="19" y2="19"/><line x1="19" y1="5" x2="5" y2="19"/></svg>
+    </button>
+
+    <nav class="site-nav" id="site-nav" aria-label="Main navigation">
+      <ul class="nav-list">
+        <li><a href="/"{{current:home}}>Home</a></li>
+        <li><a href="/about/"{{current:about}}>About</a></li>
+        <li class="nav-item--has-menu">
+          <button class="nav-item__trigger" type="button" aria-expanded="false" aria-controls="services-menu">
+            Services
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <ul class="nav-submenu" id="services-menu">
+            <li><a href="/services/"{{current:services}}>All Services</a></li>
+            <li><a href="/services/branding-logo-design/"{{current:branding}}>Branding &amp; Logo Design</a></li>
+            <li><a href="/services/social-media-marketing/"{{current:social}}>Social Media Marketing</a></li>
+            <li><a href="/services/content-creation/"{{current:content}}>Content Creation</a></li>
+            <li><a href="/services/website-development/"{{current:website}}>Website Development</a></li>
+            <li><a href="/services/digital-marketing/"{{current:marketing}}>Digital Marketing</a></li>
+          </ul>
+        </li>
+        <li><a href="/portfolio/"{{current:portfolio}}>Portfolio</a></li>
+        <li><a href="/blog/"{{current:blog}}>Blog</a></li>
+        <li><a href="/contact/"{{current:contact}}>Contact</a></li>
+      </ul>
+      <div class="header__cta">
+        <a class="btn btn--primary" href="/contact/">Let's Talk</a>
+      </div>
+    </nav>
+  </div>
+</header>

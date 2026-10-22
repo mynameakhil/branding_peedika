@@ -1,0 +1,36 @@
+# ---------------------------------------------------------------------------
+# Branding Peedika — ignore rules
+# ---------------------------------------------------------------------------
+
+# Node tooling (only used for the optional image pipeline; the site itself
+# needs no build step and no dependencies).
+tools/node_modules/
+tools/package-lock.json
+npm-debug.log*
+yarn-error.log*
+
+# Raw downloads from the image pipeline and local preview scratch space.
+tools/source/
+tools/preview/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*~
+
+# Local environment overrides
+.env
+.env.local
+*.local
+
+# Deployment bundles
+dist/
+build/
+_site/
+public/
+.vercel/
+.netlify/

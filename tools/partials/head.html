@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en-IN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{TITLE}}</title>
+<meta name="description" content="{{DESCRIPTION}}">
+<link rel="canonical" href="{{CANONICAL}}">
+<meta name="theme-color" content="#142B4A">
+<meta name="color-scheme" content="light">
+<meta name="robots" content="{{ROBOTS}}">
+<link rel="icon" href="/assets/icons/favicon.svg" type="image/svg+xml">
+<link rel="alternate icon" href="/assets/icons/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="/assets/icons/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta property="og:type" content="{{OG_TYPE}}">
+<meta property="og:site_name" content="Branding Peedika">
+<meta property="og:title" content="{{OG_TITLE}}">
+<meta property="og:description" content="{{OG_DESCRIPTION}}">
+<meta property="og:url" content="{{OG_URL}}">
+<meta property="og:image" content="{{OG_IMAGE}}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Branding Peedika — Where Every Brand Begins">
+<meta property="og:locale" content="en_IN">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{OG_TITLE}}">
+<meta name="twitter:description" content="{{OG_DESCRIPTION}}">
+<meta name="twitter:image" content="{{OG_IMAGE}}">
+{{EXTRA_HEAD}}
+<link rel="preload" href="/assets/fonts/manrope-latin-var.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/inter-latin-var.woff2" as="font" type="font/woff2" crossorigin>
+<script>
+  /* Marks the document as script-enabled so the scroll-reveal animation is
+     only ever applied when there is JavaScript able to undo it. Without
+     this flag the revealed blocks would stay invisible for anyone browsing
+     without JavaScript. The timer is a safety net: if the reveal script
+     fails to run, the content is shown anyway. */
+  (function () {
+    var d = document.documentElement;
+    d.classList.add('js');
+    window.__bpRevealFallback = window.setTimeout(function () {
+      d.classList.add('reveal-off');
+    }, 2000);
+  })();
+</script>
+<link rel="stylesheet" href="/assets/css/styles.css">
+<link rel="stylesheet" href="/assets/css/responsive.css">
+<script src="/assets/js/config.js" defer></script>
+<script src="/assets/js/main.js" defer></script>
+<script type="application/ld+json">
+{{JSONLD}}
+</script>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to main content</a>
+<!--HEADER-->
+<main id="main">
+<!--CONTENT-->
+</main>
+<!--FOOTER-->
+</body>
+</html>

@@ -1,0 +1,148 @@
+{
+  "note": "All photography is sourced from Wikimedia Commons and is openly licensed (CC BY / CC BY-SA / CC0). Attribution details are captured in tools/sources.resolved.json and reproduced in README.md. Files with CC BY-SA licences require that derivative crops carry the same licence and are credited in README.md.",
+  "images": [
+    {
+      "file": "hero-tea-shop.jpg",
+      "out": "kerala-village-tea-shop",
+      "commonsTitle": "File:A village tea shop in Kerala.jpg",
+      "size": "hero",
+      "quality": 70,
+      "avifQuality": 46,
+      "focus": "attention",
+      "alt": "Roadside tea shop in a Kerala village, the kind of small business that builds a brand one customer at a time.",
+      "usage": "Homepage hero, Kerala growth section"
+    },
+    {
+      "file": "market-shopkeeper.jpg",
+      "out": "indian-market-shopkeeper",
+      "commonsTitle": "File:Shopkeeper - Indian Market.jpg",
+      "size": "wide",
+      "quality": 70,
+      "avifQuality": 46,
+      "focus": "attention",
+      "alt": "Shopkeeper standing in a busy Indian market, looking towards the camera.",
+      "usage": "About page, homepage about section"
+    },
+    {
+      "file": "dairy-entrepreneur.jpg",
+      "out": "india-woman-dairy-entrepreneur",
+      "commonsTitle": "File:India - Woman dairy entrepreneur (3975844335).jpg",
+      "size": "wide",
+      "quality": 70,
+      "avifQuality": 46,
+      "focus": "attention",
+      "alt": "Indian woman entrepreneur standing with her dairy business.",
+      "usage": "Homepage Kerala section, digital presence service"
+    },
+    {
+      "file": "vegetable-shop-edavanna.jpg",
+      "out": "kerala-vegetable-shop-edavanna",
+      "commonsTitle": "File:Vegetable shop in Edavanna, Malappuram Distsrict, Kerala, India.jpg",
+      "size": "card",
+      "quality": 70,
+      "avifQuality": 46,
+      "focus": "attention",
+      "alt": "Vegetable shop front in Edavanna, Malappuram district, Kerala.",
+      "usage": "Services overview, digital presence service"
+    },
+    {
+      "file": "spices-munnar.jpg",
+      "out": "kerala-spice-shop-munnar",
+      "commonsTitle": "File:Spices in a shop Kerala.jpg",
+      "size": "card",
+      "quality": 70,
+      "avifQuality": 46,
+      "focus": "centre",
+      "alt": "Colourful spices displayed with price labels in a shop in Munnar, Kerala.",
+      "usage": "Content creation service, Kerala section"
+    },
+    {
+      "file": "kozhikodan-bakery.jpg",
+      "out": "kerala-bakery-kozhikode",
+      "commonsTitle": "File:Kozhikodan Bakery, Kaloor Road, Kozhikode.jpg",
+      "size": "card",
+      "quality": 70,
+      "avifQuality": 46,
+      "focus": "centre",
+      "alt": "Bakery storefront on Kaloor Road in Kozhikode, Kerala.",
+      "usage": "Branding and logo design service"
+    },
+    {
+      "file": "kannur-vegetable-vendor.jpg",
+      "out": "kerala-street-vendor-kannur",
+      "commonsTitle": "File:Thavakkara Vegetable shop.jpg",
+      "size": "card",
+      "quality": 70,
+      "avifQuality": 46,
+      "focus": "attention",
+      "alt": "Street vegetable vendor in Kannur, Kerala, surrounded by produce.",
+      "usage": "Homepage Kerala section, portfolio"
+    },
+    {
+      "file": "poovaranthode-market.png",
+      "out": "kozhikode-local-market",
+      "commonsTitle": "File:Poovaranthode local market.png",
+      "size": "card",
+      "quality": 70,
+      "avifQuality": 46,
+      "focus": "centre",
+      "alt": "Local market street in Kozhikode, Kerala.",
+      "usage": "Homepage Kerala section"
+    },
+    {
+      "file": "mattancherry-craft-shop.jpg",
+      "out": "kochi-craft-market",
+      "commonsTitle": "File:Crafters shop and market in mattancherry kochi Kerela.jpg",
+      "size": "card",
+      "quality": 70,
+      "avifQuality": 46,
+      "focus": "centre",
+      "alt": "Craft shop and market in Mattancherry, Kochi, Kerala.",
+      "usage": "Portfolio, branding service"
+    },
+    {
+      "file": "fort-kochi-fish-seller.jpg",
+      "out": "fort-kochi-fish-market",
+      "commonsTitle": "File:Fish seller in Fort Kochi, India, 2 March 2019.jpg",
+      "size": "card",
+      "quality": 70,
+      "avifQuality": 46,
+      "focus": "attention",
+      "alt": "Fish seller at the Fort Kochi fish market in Kerala.",
+      "usage": "Portfolio, blog"
+    },
+    {
+      "file": "kerala-handicraft.jpg",
+      "out": "kerala-handicraft-shop",
+      "commonsTitle": "File:Horse handicraft of Kerala (2168583056).jpg",
+      "size": "card",
+      "quality": 70,
+      "avifQuality": 46,
+      "focus": "centre",
+      "alt": "Handcrafted wooden horse and other handicrafts from a Kerala antiques shop.",
+      "usage": "Portfolio"
+    },
+    {
+      "file": "toddy-shop.jpg",
+      "out": "kerala-toddy-shop",
+      "commonsTitle": "File:Toddy Shop at Koothattukulam 112953.jpg",
+      "size": "card",
+      "quality": 70,
+      "avifQuality": 46,
+      "focus": "centre",
+      "alt": "A traditional toddy shop in rural Kerala.",
+      "usage": "Blog, Kerala section"
+    },
+    {
+      "file": "fort-kochi-mural.jpg",
+      "out": "kerala-fort-kochi-mural",
+      "commonsTitle": "File:Fort Kochi - Mural of Na'vi.jpg",
+      "size": "wide",
+      "quality": 70,
+      "avifQuality": 46,
+      "focus": "centre",
+      "alt": "Large painted mural on a wall in Fort Kochi, Kerala.",
+      "usage": "About page, blog"
+    }
+  ]
+}

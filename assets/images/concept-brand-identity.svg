@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Brand identity concept board for a sample coffee brand">
+  <defs>
+    <clipPath id="cardClip"><rect x="700" y="120" width="420" height="250" rx="12"/></clipPath>
+  </defs>
+  <rect width="1200" height="900" fill="#F3EEE4"/>
+  <rect x="640" y="0" width="560" height="900" fill="#1F3A34"/>
+
+  <!-- left: identity -->
+  <g font-family="Helvetica Neue, Arial, sans-serif">
+    <text x="80" y="96" font-size="15" letter-spacing="4" fill="#B0802A" font-weight="700">BRAND IDENTITY CONCEPT</text>
+    <line x1="80" y1="122" x2="250" y2="122" stroke="#C9962F" stroke-width="3"/>
+
+    <!-- mark -->
+    <g transform="translate(80,170)">
+      <circle cx="44" cy="44" r="42" fill="none" stroke="#1F3A34" stroke-width="2.5"/>
+      <circle cx="44" cy="44" r="30" fill="none" stroke="#C9962F" stroke-width="1.5"/>
+      <g fill="#1F3A34">
+        <ellipse cx="44" cy="26" rx="6" ry="11"/>
+        <ellipse cx="61" cy="36" rx="6" ry="11" transform="rotate(72 61 36)"/>
+        <ellipse cx="56" cy="56" rx="6" ry="11" transform="rotate(144 56 56)"/>
+        <ellipse cx="32" cy="56" rx="6" ry="11" transform="rotate(216 32 56)"/>
+        <ellipse cx="27" cy="36" rx="6" ry="11" transform="rotate(288 27 36)"/>
+      </g>
+      <circle cx="44" cy="44" r="6" fill="#C9962F"/>
+    </g>
+
+    <text x="190" y="215" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700" fill="#1F3A34" letter-spacing="4">KOLAM</text>
+    <text x="192" y="250" font-size="15" letter-spacing="6" fill="#6B6355" font-weight="600">COFFEE COLLECTIVE</text>
+
+    <line x1="80" y1="310" x2="560" y2="310" stroke="#DCD2C0" stroke-width="1.5"/>
+
+    <text x="80" y="360" font-size="13" letter-spacing="3" fill="#8A8172" font-weight="700">PRIMARY WORDMARK</text>
+    <text x="80" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="44" fill="#1F3A34">Aa  Kolam</text>
+    <text x="80" y="466" font-size="13" letter-spacing="3" fill="#8A8172" font-weight="700">TYPEFACE PAIRING</text>
+    <text x="80" y="500" font-size="17" fill="#4A4438">Georgia Display / Helvetica Neue Text</text>
+
+    <!-- swatches -->
+    <text x="80" y="570" font-size="13" letter-spacing="3" fill="#8A8172" font-weight="700">COLOUR PALETTE</text>
+    <g>
+      <rect x="80" y="592" width="110" height="110" rx="10" fill="#1F3A34"/>
+      <rect x="205" y="592" width="110" height="110" rx="10" fill="#C9962F"/>
+      <rect x="330" y="592" width="110" height="110" rx="10" fill="#7E3B2E"/>
+      <rect x="455" y="592" width="110" height="110" rx="10" fill="#EFE7D8" stroke="#DCD2C0"/>
+    </g>
+    <g font-size="11.5" fill="#8A8172" letter-spacing="1">
+      <text x="80" y="722">#1F3A34</text>
+      <text x="205" y="722">#C9962F</text>
+      <text x="330" y="722">#7E3B2E</text>
+      <text x="455" y="722">#EFE7D8</text>
+    </g>
+
+    <text x="80" y="790" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-style="italic" fill="#4A4438">“Where every brand begins.”</text>
+  </g>
+
+  <!-- right: applications -->
+  <g font-family="Helvetica Neue, Arial, sans-serif">
+    <text x="700" y="72" font-size="13" letter-spacing="3.5" fill="#8FA69B" font-weight="700">IDENTITY APPLICATIONS</text>
+
+    <!-- business card -->
+    <g clip-path="url(#cardClip)">
+      <rect x="700" y="120" width="420" height="250" fill="#F3EEE4"/>
+      <g transform="translate(742,168)">
+        <circle cx="30" cy="30" r="28" fill="none" stroke="#1F3A34" stroke-width="2"/>
+        <g fill="#1F3A34">
+          <ellipse cx="30" cy="16" rx="4.5" ry="8"/>
+          <ellipse cx="43" cy="24" rx="4.5" ry="8" transform="rotate(72 43 24)"/>
+          <ellipse cx="39" cy="40" rx="4.5" ry="8" transform="rotate(144 39 40)"/>
+          <ellipse cx="21" cy="40" rx="4.5" ry="8" transform="rotate(216 21 40)"/>
+          <ellipse cx="17" cy="24" rx="4.5" ry="8" transform="rotate(288 17 24)"/>
+        </g>
+        <circle cx="30" cy="30" r="4" fill="#C9962F"/>
+      </g>
+      <text x="812" y="205" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#1F3A34" letter-spacing="2.5">KOLAM</text>
+      <text x="814" y="228" font-size="9.5" letter-spacing="3" fill="#8A8172">COFFEE COLLECTIVE</text>
+      <line x1="742" y1="300" x2="1078" y2="300" stroke="#DCD2C0"/>
+      <text x="742" y="330" font-size="11.5" fill="#6B6355">Wayanad, Kerala · hello@kolam.example</text>
+    </g>
+
+    <!-- cup -->
+    <g transform="translate(700,410)">
+      <text x="0" y="0" font-size="13" letter-spacing="3.5" fill="#8FA69B" font-weight="700">PACKAGING</text>
+      <path d="M60 60 h150 l-12 150 h-126 z" fill="#F3EEE4"/>
+      <path d="M60 60 h150 l-4 50 h-142 z" fill="#1F3A34"/>
+      <circle cx="135" cy="150" r="26" fill="none" stroke="#1F3A34" stroke-width="2"/>
+      <g fill="#1F3A34">
+        <ellipse cx="135" cy="138" rx="4" ry="7"/>
+        <ellipse cx="146" cy="145" rx="4" ry="7" transform="rotate(72 146 145)"/>
+        <ellipse cx="142" cy="158" rx="4" ry="7" transform="rotate(144 142 158)"/>
+        <ellipse cx="128" cy="158" rx="4" ry="7" transform="rotate(216 128 158)"/>
+        <ellipse cx="124" cy="145" rx="4" ry="7" transform="rotate(288 124 145)"/>
+      </g>
+      <text x="86" y="196" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#1F3A34" letter-spacing="1.5">KOLAM</text>
+      <text x="102" y="212" font-size="7.5" letter-spacing="2" fill="#8A8172">MEDIUM ROAST</text>
+    </g>
+
+    <!-- label -->
+    <g transform="translate(920,430)">
+      <rect x="0" y="40" width="200" height="200" rx="8" fill="#EFE7D8"/>
+      <rect x="18" y="58" width="164" height="164" rx="4" fill="none" stroke="#1F3A34" stroke-width="1.5"/>
+      <text x="100" y="118" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#1F3A34" letter-spacing="2">KOLAM</text>
+      <line x1="42" y1="136" x2="158" y2="136" stroke="#C9962F" stroke-width="1.5"/>
+      <text x="100" y="158" text-anchor="middle" font-size="9" letter-spacing="3" fill="#6B6355">WAYANAD · 250g</text>
+      <text x="100" y="196" text-anchor="middle" font-size="8.5" fill="#8A8172">Single origin · Arabica</text>
+    </g>
+  </g>
+
+  <rect x="0" y="856" width="1200" height="44" fill="#1F3A34"/>
+  <text x="40" y="884" font-family="Helvetica Neue, Arial, sans-serif" font-size="12" letter-spacing="2.5" fill="#C9962F" font-weight="700">SAMPLE CONCEPT — NOT CLIENT WORK</text>
+  <text x="1160" y="884" text-anchor="end" font-family="Helvetica Neue, Arial, sans-serif" font-size="12" fill="#8FA69B">Branding Peedika · concept 01</text>
+</svg>

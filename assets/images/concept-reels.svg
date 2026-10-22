@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Short-form video and reel content concept for a sample cafe">
+  <rect width="1200" height="900" fill="#F0EDE6"/>
+  <g font-family="Helvetica Neue, Arial, sans-serif">
+    <text x="60" y="58" font-size="14" letter-spacing="4" fill="#8A6A3C" font-weight="700">CONTENT CREATION CONCEPT</text>
+    <text x="60" y="94" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#2E3A33">Monsoon Café</text>
+    <text x="1140" y="92" text-anchor="end" font-size="13" fill="#8A8377" letter-spacing="2">REELS &amp; STORIES</text>
+  </g>
+
+  <!-- reel frame 1 -->
+  <g transform="translate(70,160)">
+    <rect width="300" height="534" rx="18" fill="#2E3A33"/>
+    <rect x="10" y="10" width="280" height="514" rx="12" fill="#3C4A40"/>
+    <ellipse cx="150" cy="150" rx="96" ry="112" fill="#6B5A44"/>
+    <ellipse cx="150" cy="150" rx="80" ry="96" fill="#EFE6D6"/>
+    <ellipse cx="150" cy="150" rx="64" ry="78" fill="#8C6A45"/>
+    <path d="M126 132 q24-16 48 0 q-6 22-24 26 q-18-4-24-26z" fill="#EFE6D6" opacity="0.85"/>
+    <g fill="#FFFFFF">
+      <rect x="24" y="24" width="58" height="22" rx="11" opacity="0.8"/>
+      <text x="53" y="40" text-anchor="middle" font-size="11" font-weight="700">REEL</text>
+    </g>
+    <text x="150" y="330" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#FFFFFF">60 seconds</text>
+    <text x="150" y="362" text-anchor="middle" font-size="15" fill="#E4DCCB">from bean to cup</text>
+    <rect x="30" y="398" width="240" height="42" rx="21" fill="#F2B544"/>
+    <text x="150" y="424" text-anchor="middle" font-size="13.5" fill="#2E3A33" font-weight="700">WATCH THE FULL ROAST</text>
+    <text x="150" y="486" text-anchor="middle" font-size="12.5" fill="#D6CCBB">@monsooncafe</text>
+    <text x="150" y="510" text-anchor="middle" font-size="11.5" fill="#A99E8B">Fort Kochi · 7am daily</text>
+  </g>
+
+  <!-- reel frame 2 -->
+  <g transform="translate(400,160)">
+    <rect width="300" height="534" rx="18" fill="#2E3A33"/>
+    <rect x="10" y="10" width="280" height="514" rx="12" fill="#C9A87C"/>
+    <rect x="10" y="10" width="280" height="260" fill="#E6D6BC"/>
+    <circle cx="150" cy="140" r="74" fill="#F5EEE0"/>
+    <circle cx="150" cy="140" r="56" fill="#8C6A45"/>
+    <circle cx="150" cy="140" r="40" fill="#EFE6D6"/>
+    <path d="M138 128 q12-8 24 0 q-3 12-12 14 q-9-2-12-14z" fill="#8C6A45"/>
+    <g fill="#FFFFFF" opacity="0.9">
+      <rect x="24" y="24" width="58" height="22" rx="11"/>
+      <text x="53" y="40" text-anchor="middle" font-size="11" font-weight="700" fill="#2E3A33">REEL</text>
+    </g>
+    <text x="34" y="330" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#2E3A33">The 6am bake</text>
+    <text x="34" y="360" font-size="14" fill="#5A6B60">Three bakers, one oven,</text>
+    <text x="34" y="382" font-size="14" fill="#5A6B60">and a queue out the door.</text>
+    <rect x="34" y="408" width="164" height="40" rx="20" fill="#2E3A33"/>
+    <text x="116" y="433" text-anchor="middle" font-size="13" fill="#FFFFFF" font-weight="700">SEE THE MORNING</text>
+    <text x="34" y="486" font-size="12.5" fill="#5A6B60">@monsooncafe</text>
+    <text x="34" y="510" font-size="11.5" fill="#7E8C82">Mattancherry</text>
+  </g>
+
+  <!-- story / carousel strip -->
+  <g transform="translate(730,160)">
+    <text x="0" y="0" font-size="13" letter-spacing="3.5" fill="#8A6A3C" font-weight="700">STORY SEQUENCE</text>
+    <g transform="translate(0,24)">
+      <rect width="160" height="286" rx="12" fill="#2E3A33"/>
+      <rect x="0" y="0" width="160" height="286" rx="12" fill="#3C4A40"/>
+      <circle cx="80" cy="104" r="44" fill="#C9A87C"/>
+      <text x="80" y="196" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#FFFFFF">Morning</text>
+      <text x="80" y="222" text-anchor="middle" font-size="12" fill="#CFC5B4">Slide 1</text>
+      <rect x="22" y="252" width="116" height="4" rx="2" fill="#5A6B60"/>
+      <rect x="22" y="252" width="38" height="4" rx="2" fill="#F2B544"/>
+    </g>
+    <g transform="translate(172,24)">
+      <rect width="160" height="286" rx="12" fill="#2E3A33"/>
+      <rect x="0" y="0" width="160" height="286" rx="12" fill="#C9A87C"/>
+      <circle cx="80" cy="104" r="44" fill="#EFE6D6"/>
+      <text x="80" y="196" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#2E3A33">Noon</text>
+      <text x="80" y="222" text-anchor="middle" font-size="12" fill="#5A6B60">Slide 2</text>
+      <rect x="22" y="252" width="116" height="4" rx="2" fill="#5A6B60"/>
+      <rect x="22" y="252" width="76" height="4" rx="2" fill="#F2B544"/>
+    </g>
+    <g transform="translate(344,24)">
+      <rect width="160" height="286" rx="12" fill="#2E3A33"/>
+      <rect x="0" y="0" width="160" height="286" rx="12" fill="#F2B544"/>
+      <circle cx="80" cy="104" r="44" fill="#2E3A33"/>
+      <text x="80" y="196" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#2E3A33">Evening</text>
+      <text x="80" y="222" text-anchor="middle" font-size="12" fill="#6B5320">Slide 3</text>
+      <rect x="22" y="252" width="116" height="4" rx="2" fill="#8A6A3C"/>
+      <rect x="22" y="252" width="116" height="4" rx="2" fill="#2E3A33"/>
+    </g>
+  </g>
+
+  <rect x="0" y="866" width="1200" height="34" fill="#2E3A33"/>
+  <text x="40" y="888" font-family="Helvetica Neue, Arial, sans-serif" font-size="11.5" letter-spacing="2.5" fill="#F2B544" font-weight="700">SAMPLE CONCEPT — NOT CLIENT WORK</text>
+  <text x="1160" y="888" text-anchor="end" font-family="Helvetica Neue, Arial, sans-serif" font-size="11.5" fill="#A99E8B">Branding Peedika · concept 06</text>
+</svg>

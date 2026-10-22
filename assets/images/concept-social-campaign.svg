@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Social media campaign concept for a sample florist brand">
+  <rect width="1200" height="900" fill="#FBF6F1"/>
+  <g font-family="Helvetica Neue, Arial, sans-serif">
+    <text x="60" y="62" font-size="14" letter-spacing="4" fill="#A05B52" font-weight="700">SOCIAL MEDIA CAMPAIGN CONCEPT</text>
+    <text x="60" y="100" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#3C2E30">Backwater Blooms</text>
+    <text x="1140" y="98" text-anchor="end" font-size="13" fill="#9C8F8C" letter-spacing="2">@backwaterblooms</text>
+  </g>
+
+  <!-- 3x3 grid -->
+  <g>
+    <!-- row 1 -->
+    <g transform="translate(60,140)">
+      <rect width="340" height="225" fill="#5B3A4A"/>
+      <circle cx="170" cy="96" r="46" fill="#E8C9C0"/>
+      <circle cx="170" cy="96" r="18" fill="#5B3A4A"/>
+      <path d="M170 50 q26 22 0 46 q-26-24 0-46z" fill="#9CAF88"/>
+      <path d="M216 96 q-22 26-46 0 q24-26 46 0z" fill="#9CAF88"/>
+      <path d="M124 96 q22-26 46 0 q-24 26-46 0z" fill="#9CAF88"/>
+      <text x="24" y="200" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#FBF6F1" letter-spacing="1">The monsoon edit</text>
+    </g>
+    <g transform="translate(430,140)">
+      <rect width="340" height="225" fill="#E8C9C0"/>
+      <rect x="86" y="36" width="168" height="120" rx="4" fill="#F7F1E8"/>
+      <text x="170" y="82" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#5B3A4A">STEMS</text>
+      <line x1="110" y1="96" x2="230" y2="96" stroke="#C9962F" stroke-width="1.5"/>
+      <text x="170" y="122" text-anchor="middle" font-size="9" letter-spacing="3" fill="#8E7B78">FRESH DAILY</text>
+      <text x="170" y="196" text-anchor="middle" font-size="11" letter-spacing="2" fill="#5B3A4A">ALAPPUZHA · 9AM</text>
+    </g>
+    <g transform="translate(800,140)">
+      <rect width="340" height="225" fill="#9CAF88"/>
+      <circle cx="170" cy="104" r="58" fill="none" stroke="#FBF6F1" stroke-width="2"/>
+      <text x="170" y="112" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#FBF6F1">B</text>
+      <text x="170" y="196" text-anchor="middle" font-size="11" letter-spacing="2.5" fill="#3C4A32">SINCE 2019</text>
+    </g>
+
+    <!-- row 2 -->
+    <g transform="translate(60,385)">
+      <rect width="340" height="225" fill="#F7F1E8"/>
+      <text x="24" y="52" font-size="10" letter-spacing="3" fill="#A05B52">HOW TO ORDER</text>
+      <g font-size="15" fill="#3C2E30">
+        <text x="24" y="88">01 — Pick your stems</text>
+        <text x="24" y="120">02 — Choose a wrap</text>
+        <text x="24" y="152">03 — We deliver by 6pm</text>
+      </g>
+      <rect x="24" y="176" width="128" height="30" rx="15" fill="#5B3A4A"/>
+      <text x="88" y="196" text-anchor="middle" font-size="10" letter-spacing="2" fill="#FBF6F1">ORDER NOW</text>
+    </g>
+    <g transform="translate(430,385)">
+      <rect width="340" height="225" fill="#F1E2DC"/>
+      <g transform="translate(120,40)">
+        <path d="M50 145 C50 80 50 40 50 12" stroke="#5B3A4A" stroke-width="3" fill="none"/>
+        <path d="M50 80 q34-18 46-56 q-42 4-46 56z" fill="#9CAF88"/>
+        <path d="M50 118 q-34-14-48-48 q38 2 48 48z" fill="#7E9169"/>
+        <circle cx="50" cy="14" r="13" fill="#C9962F"/>
+      </g>
+      <text x="170" y="212" text-anchor="middle" font-size="10" letter-spacing="2.5" fill="#8E7B78">FARM DIRECT</text>
+    </g>
+    <g transform="translate(800,385)">
+      <rect width="340" height="225" fill="#5B3A4A"/>
+      <rect x="26" y="26" width="288" height="173" rx="8" fill="#3C2E30"/>
+      <rect x="44" y="44" width="252" height="137" rx="4" fill="#E8C9C0"/>
+      <text x="170" y="104" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#5B3A4A" letter-spacing="1">Gifting</text>
+      <text x="170" y="132" text-anchor="middle" font-size="9.5" letter-spacing="3" fill="#8E7B78">WRAPPED BY HAND</text>
+    </g>
+
+    <!-- row 3 -->
+    <g transform="translate(60,630)">
+      <rect width="340" height="225" fill="#C9962F"/>
+      <text x="170" y="104" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#3C2E30" letter-spacing="1">Festive</text>
+      <text x="170" y="134" text-anchor="middle" font-size="10" letter-spacing="4" fill="#6B4F16">PRE-ORDERS OPEN</text>
+    </g>
+    <g transform="translate(430,630)">
+      <rect width="340" height="225" fill="#E8C9C0"/>
+      <g fill="#5B3A4A">
+        <circle cx="110" cy="100" r="26"/><circle cx="160" cy="100" r="26"/><circle cx="210" cy="100" r="26"/>
+      </g>
+      <g fill="#F7F1E8">
+        <circle cx="110" cy="100" r="11"/><circle cx="160" cy="100" r="11"/><circle cx="210" cy="100" r="11"/>
+      </g>
+      <text x="170" y="172" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#5B3A4A">Three stems, one story</text>
+    </g>
+    <g transform="translate(800,630)">
+      <rect width="340" height="225" fill="#3C2E30"/>
+      <circle cx="170" cy="92" r="44" fill="none" stroke="#C9962F" stroke-width="2"/>
+      <path d="M155 92 l11 12 22-26" stroke="#C9962F" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="170" y="176" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#F7F1E8">Sampled and local</text>
+      <text x="170" y="200" text-anchor="middle" font-size="9" letter-spacing="3" fill="#9C8F8C">THREE DAYS A WEEK</text>
+    </g>
+  </g>
+
+  <rect x="0" y="866" width="1200" height="34" fill="#3C2E30"/>
+  <text x="40" y="888" font-family="Helvetica Neue, Arial, sans-serif" font-size="11.5" letter-spacing="2.5" fill="#C9962F" font-weight="700">SAMPLE CONCEPT — NOT CLIENT WORK</text>
+  <text x="1160" y="888" text-anchor="end" font-family="Helvetica Neue, Arial, sans-serif" font-size="11.5" fill="#9C8F8C">Branding Peedika · concept 02</text>
+</svg>

@@ -1,0 +1,613 @@
+[
+  {
+    "file": "hero-tea-shop.jpg",
+    "out": "kerala-village-tea-shop",
+    "width": 6000,
+    "height": 4000,
+    "variants": [
+      {
+        "w": 640,
+        "h": 427,
+        "webp": "kerala-village-tea-shop-640.webp",
+        "avif": "kerala-village-tea-shop-640.avif",
+        "webpKB": 61.8,
+        "avifKB": 31
+      },
+      {
+        "w": 960,
+        "h": 640,
+        "webp": "kerala-village-tea-shop-960.webp",
+        "avif": "kerala-village-tea-shop-960.avif",
+        "webpKB": 133.4,
+        "avifKB": 66.3
+      },
+      {
+        "w": 1280,
+        "h": 853,
+        "webp": "kerala-village-tea-shop-1280.webp",
+        "avif": "kerala-village-tea-shop-1280.avif",
+        "webpKB": 227.2,
+        "avifKB": 112.4
+      },
+      {
+        "w": 1600,
+        "h": 1067,
+        "webp": "kerala-village-tea-shop-1600.webp",
+        "avif": "kerala-village-tea-shop-1600.avif",
+        "webpKB": 325,
+        "avifKB": 161.2
+      }
+    ],
+    "commonsTitle": "File:A village tea shop in Kerala.jpg",
+    "size": "hero",
+    "quality": 78,
+    "avifQuality": 54,
+    "focus": "attention",
+    "alt": "Roadside tea shop in a Kerala village, the kind of small business that builds a brand one customer at a time.",
+    "usage": "Homepage hero, Kerala growth section"
+  },
+  {
+    "file": "market-shopkeeper.jpg",
+    "out": "indian-market-shopkeeper",
+    "width": 6977,
+    "height": 4652,
+    "variants": [
+      {
+        "w": 480,
+        "h": 320,
+        "webp": "indian-market-shopkeeper-480.webp",
+        "avif": "indian-market-shopkeeper-480.avif",
+        "webpKB": 22.5,
+        "avifKB": 12.7
+      },
+      {
+        "w": 768,
+        "h": 512,
+        "webp": "indian-market-shopkeeper-768.webp",
+        "avif": "indian-market-shopkeeper-768.avif",
+        "webpKB": 41.3,
+        "avifKB": 23.6
+      },
+      {
+        "w": 1024,
+        "h": 683,
+        "webp": "indian-market-shopkeeper-1024.webp",
+        "avif": "indian-market-shopkeeper-1024.avif",
+        "webpKB": 62.3,
+        "avifKB": 36
+      },
+      {
+        "w": 1440,
+        "h": 960,
+        "webp": "indian-market-shopkeeper-1440.webp",
+        "avif": "indian-market-shopkeeper-1440.avif",
+        "webpKB": 101,
+        "avifKB": 56.9
+      }
+    ],
+    "commonsTitle": "File:Shopkeeper - Indian Market.jpg",
+    "size": "wide",
+    "quality": 78,
+    "avifQuality": 54,
+    "focus": "attention",
+    "alt": "Shopkeeper standing in a busy Indian market, looking towards the camera.",
+    "usage": "About page, homepage about section"
+  },
+  {
+    "file": "dairy-entrepreneur.jpg",
+    "out": "india-woman-dairy-entrepreneur",
+    "width": 3264,
+    "height": 2448,
+    "variants": [
+      {
+        "w": 480,
+        "h": 360,
+        "webp": "india-woman-dairy-entrepreneur-480.webp",
+        "avif": "india-woman-dairy-entrepreneur-480.avif",
+        "webpKB": 21.1,
+        "avifKB": 12.1
+      },
+      {
+        "w": 768,
+        "h": 576,
+        "webp": "india-woman-dairy-entrepreneur-768.webp",
+        "avif": "india-woman-dairy-entrepreneur-768.avif",
+        "webpKB": 45.6,
+        "avifKB": 26.7
+      },
+      {
+        "w": 1024,
+        "h": 768,
+        "webp": "india-woman-dairy-entrepreneur-1024.webp",
+        "avif": "india-woman-dairy-entrepreneur-1024.avif",
+        "webpKB": 72.7,
+        "avifKB": 42.8
+      },
+      {
+        "w": 1440,
+        "h": 1080,
+        "webp": "india-woman-dairy-entrepreneur-1440.webp",
+        "avif": "india-woman-dairy-entrepreneur-1440.avif",
+        "webpKB": 131.4,
+        "avifKB": 78.8
+      }
+    ],
+    "commonsTitle": "File:India - Woman dairy entrepreneur (3975844335).jpg",
+    "size": "wide",
+    "quality": 78,
+    "avifQuality": 54,
+    "focus": "attention",
+    "alt": "Indian woman entrepreneur standing with her dairy business.",
+    "usage": "Homepage Kerala section, digital presence service"
+  },
+  {
+    "file": "vegetable-shop-edavanna.jpg",
+    "out": "kerala-vegetable-shop-edavanna",
+    "width": 2560,
+    "height": 1536,
+    "variants": [
+      {
+        "w": 320,
+        "h": 192,
+        "webp": "kerala-vegetable-shop-edavanna-320.webp",
+        "avif": "kerala-vegetable-shop-edavanna-320.avif",
+        "webpKB": 12.2,
+        "avifKB": 6.9
+      },
+      {
+        "w": 480,
+        "h": 288,
+        "webp": "kerala-vegetable-shop-edavanna-480.webp",
+        "avif": "kerala-vegetable-shop-edavanna-480.avif",
+        "webpKB": 22.5,
+        "avifKB": 12.5
+      },
+      {
+        "w": 720,
+        "h": 432,
+        "webp": "kerala-vegetable-shop-edavanna-720.webp",
+        "avif": "kerala-vegetable-shop-edavanna-720.avif",
+        "webpKB": 40.7,
+        "avifKB": 23.2
+      },
+      {
+        "w": 960,
+        "h": 576,
+        "webp": "kerala-vegetable-shop-edavanna-960.webp",
+        "avif": "kerala-vegetable-shop-edavanna-960.avif",
+        "webpKB": 61,
+        "avifKB": 34.7
+      }
+    ],
+    "commonsTitle": "File:Vegetable shop in Edavanna, Malappuram Distsrict, Kerala, India.jpg",
+    "size": "card",
+    "quality": 78,
+    "avifQuality": 54,
+    "focus": "attention",
+    "alt": "Vegetable shop front in Edavanna, Malappuram district, Kerala.",
+    "usage": "Services overview, digital presence service"
+  },
+  {
+    "file": "spices-munnar.jpg",
+    "out": "kerala-spice-shop-munnar",
+    "width": 4032,
+    "height": 3024,
+    "variants": [
+      {
+        "w": 320,
+        "h": 240,
+        "webp": "kerala-spice-shop-munnar-320.webp",
+        "avif": "kerala-spice-shop-munnar-320.avif",
+        "webpKB": 15.5,
+        "avifKB": 7.9
+      },
+      {
+        "w": 480,
+        "h": 360,
+        "webp": "kerala-spice-shop-munnar-480.webp",
+        "avif": "kerala-spice-shop-munnar-480.avif",
+        "webpKB": 32.5,
+        "avifKB": 16.9
+      },
+      {
+        "w": 720,
+        "h": 540,
+        "webp": "kerala-spice-shop-munnar-720.webp",
+        "avif": "kerala-spice-shop-munnar-720.avif",
+        "webpKB": 63.3,
+        "avifKB": 33.1
+      },
+      {
+        "w": 960,
+        "h": 720,
+        "webp": "kerala-spice-shop-munnar-960.webp",
+        "avif": "kerala-spice-shop-munnar-960.avif",
+        "webpKB": 103.8,
+        "avifKB": 54.6
+      }
+    ],
+    "commonsTitle": "File:Spices in a shop Kerala.jpg",
+    "size": "card",
+    "quality": 78,
+    "avifQuality": 54,
+    "focus": "centre",
+    "alt": "Colourful spices displayed with price labels in a shop in Munnar, Kerala.",
+    "usage": "Content creation service, Kerala section"
+  },
+  {
+    "file": "kozhikodan-bakery.jpg",
+    "out": "kerala-bakery-kozhikode",
+    "width": 3243,
+    "height": 1810,
+    "variants": [
+      {
+        "w": 320,
+        "h": 179,
+        "webp": "kerala-bakery-kozhikode-320.webp",
+        "avif": "kerala-bakery-kozhikode-320.avif",
+        "webpKB": 11.7,
+        "avifKB": 6.4
+      },
+      {
+        "w": 480,
+        "h": 268,
+        "webp": "kerala-bakery-kozhikode-480.webp",
+        "avif": "kerala-bakery-kozhikode-480.avif",
+        "webpKB": 24.2,
+        "avifKB": 13.2
+      },
+      {
+        "w": 720,
+        "h": 402,
+        "webp": "kerala-bakery-kozhikode-720.webp",
+        "avif": "kerala-bakery-kozhikode-720.avif",
+        "webpKB": 48.9,
+        "avifKB": 26.7
+      },
+      {
+        "w": 960,
+        "h": 536,
+        "webp": "kerala-bakery-kozhikode-960.webp",
+        "avif": "kerala-bakery-kozhikode-960.avif",
+        "webpKB": 78.8,
+        "avifKB": 42.7
+      }
+    ],
+    "commonsTitle": "File:Kozhikodan Bakery, Kaloor Road, Kozhikode.jpg",
+    "size": "card",
+    "quality": 78,
+    "avifQuality": 54,
+    "focus": "centre",
+    "alt": "Bakery storefront on Kaloor Road in Kozhikode, Kerala.",
+    "usage": "Branding and logo design service"
+  },
+  {
+    "file": "kannur-vegetable-vendor.jpg",
+    "out": "kerala-street-vendor-kannur",
+    "width": 3072,
+    "height": 2304,
+    "variants": [
+      {
+        "w": 320,
+        "h": 240,
+        "webp": "kerala-street-vendor-kannur-320.webp",
+        "avif": "kerala-street-vendor-kannur-320.avif",
+        "webpKB": 14.9,
+        "avifKB": 8.5
+      },
+      {
+        "w": 480,
+        "h": 360,
+        "webp": "kerala-street-vendor-kannur-480.webp",
+        "avif": "kerala-street-vendor-kannur-480.avif",
+        "webpKB": 29.9,
+        "avifKB": 16.8
+      },
+      {
+        "w": 720,
+        "h": 540,
+        "webp": "kerala-street-vendor-kannur-720.webp",
+        "avif": "kerala-street-vendor-kannur-720.avif",
+        "webpKB": 57.6,
+        "avifKB": 32.4
+      },
+      {
+        "w": 960,
+        "h": 720,
+        "webp": "kerala-street-vendor-kannur-960.webp",
+        "avif": "kerala-street-vendor-kannur-960.avif",
+        "webpKB": 87.8,
+        "avifKB": 48.6
+      }
+    ],
+    "commonsTitle": "File:Thavakkara Vegetable shop.jpg",
+    "size": "card",
+    "quality": 78,
+    "avifQuality": 54,
+    "focus": "attention",
+    "alt": "Street vegetable vendor in Kannur, Kerala, surrounded by produce.",
+    "usage": "Homepage Kerala section, portfolio"
+  },
+  {
+    "file": "poovaranthode-market.png",
+    "out": "kozhikode-local-market",
+    "width": 1363,
+    "height": 957,
+    "variants": [
+      {
+        "w": 320,
+        "h": 225,
+        "webp": "kozhikode-local-market-320.webp",
+        "avif": "kozhikode-local-market-320.avif",
+        "webpKB": 12.1,
+        "avifKB": 7
+      },
+      {
+        "w": 480,
+        "h": 337,
+        "webp": "kozhikode-local-market-480.webp",
+        "avif": "kozhikode-local-market-480.avif",
+        "webpKB": 27.1,
+        "avifKB": 14.8
+      },
+      {
+        "w": 720,
+        "h": 506,
+        "webp": "kozhikode-local-market-720.webp",
+        "avif": "kozhikode-local-market-720.avif",
+        "webpKB": 56.1,
+        "avifKB": 31.2
+      },
+      {
+        "w": 960,
+        "h": 674,
+        "webp": "kozhikode-local-market-960.webp",
+        "avif": "kozhikode-local-market-960.avif",
+        "webpKB": 89.7,
+        "avifKB": 50.6
+      }
+    ],
+    "commonsTitle": "File:Poovaranthode local market.png",
+    "size": "card",
+    "quality": 78,
+    "avifQuality": 54,
+    "focus": "centre",
+    "alt": "Local market street in Kozhikode, Kerala.",
+    "usage": "Homepage Kerala section"
+  },
+  {
+    "file": "mattancherry-craft-shop.jpg",
+    "out": "kochi-craft-market",
+    "width": 1920,
+    "height": 2557,
+    "variants": [
+      {
+        "w": 320,
+        "h": 426,
+        "webp": "kochi-craft-market-320.webp",
+        "avif": "kochi-craft-market-320.avif",
+        "webpKB": 20.5,
+        "avifKB": 11.3
+      },
+      {
+        "w": 480,
+        "h": 639,
+        "webp": "kochi-craft-market-480.webp",
+        "avif": "kochi-craft-market-480.avif",
+        "webpKB": 43.4,
+        "avifKB": 24
+      },
+      {
+        "w": 720,
+        "h": 959,
+        "webp": "kochi-craft-market-720.webp",
+        "avif": "kochi-craft-market-720.avif",
+        "webpKB": 96.3,
+        "avifKB": 51.7
+      },
+      {
+        "w": 960,
+        "h": 1279,
+        "webp": "kochi-craft-market-960.webp",
+        "avif": "kochi-craft-market-960.avif",
+        "webpKB": 170.7,
+        "avifKB": 92.2
+      }
+    ],
+    "commonsTitle": "File:Crafters shop and market in mattancherry kochi Kerela.jpg",
+    "size": "card",
+    "quality": 70,
+    "avifQuality": 46,
+    "focus": "centre",
+    "alt": "Craft shop and market in Mattancherry, Kochi, Kerala.",
+    "usage": "Portfolio, branding service"
+  },
+  {
+    "file": "fort-kochi-fish-seller.jpg",
+    "out": "fort-kochi-fish-market",
+    "width": 3840,
+    "height": 2560,
+    "variants": [
+      {
+        "w": 320,
+        "h": 213,
+        "webp": "fort-kochi-fish-market-320.webp",
+        "avif": "fort-kochi-fish-market-320.avif",
+        "webpKB": 13.7,
+        "avifKB": 8.1
+      },
+      {
+        "w": 480,
+        "h": 320,
+        "webp": "fort-kochi-fish-market-480.webp",
+        "avif": "fort-kochi-fish-market-480.avif",
+        "webpKB": 26.5,
+        "avifKB": 15.2
+      },
+      {
+        "w": 720,
+        "h": 480,
+        "webp": "fort-kochi-fish-market-720.webp",
+        "avif": "fort-kochi-fish-market-720.avif",
+        "webpKB": 48.2,
+        "avifKB": 28
+      },
+      {
+        "w": 960,
+        "h": 640,
+        "webp": "fort-kochi-fish-market-960.webp",
+        "avif": "fort-kochi-fish-market-960.avif",
+        "webpKB": 78.4,
+        "avifKB": 46.1
+      }
+    ],
+    "commonsTitle": "File:Fish seller in Fort Kochi, India, 2 March 2019.jpg",
+    "size": "card",
+    "quality": 70,
+    "avifQuality": 46,
+    "focus": "attention",
+    "alt": "Fish seller at the Fort Kochi fish market in Kerala.",
+    "usage": "Portfolio, blog"
+  },
+  {
+    "file": "kerala-handicraft.jpg",
+    "out": "kerala-handicraft-shop",
+    "width": 1920,
+    "height": 1080,
+    "variants": [
+      {
+        "w": 320,
+        "h": 180,
+        "webp": "kerala-handicraft-shop-320.webp",
+        "avif": "kerala-handicraft-shop-320.avif",
+        "webpKB": 9.9,
+        "avifKB": 5.8
+      },
+      {
+        "w": 480,
+        "h": 270,
+        "webp": "kerala-handicraft-shop-480.webp",
+        "avif": "kerala-handicraft-shop-480.avif",
+        "webpKB": 18.9,
+        "avifKB": 11.1
+      },
+      {
+        "w": 720,
+        "h": 405,
+        "webp": "kerala-handicraft-shop-720.webp",
+        "avif": "kerala-handicraft-shop-720.avif",
+        "webpKB": 36.2,
+        "avifKB": 20.7
+      },
+      {
+        "w": 960,
+        "h": 540,
+        "webp": "kerala-handicraft-shop-960.webp",
+        "avif": "kerala-handicraft-shop-960.avif",
+        "webpKB": 59.8,
+        "avifKB": 32.4
+      }
+    ],
+    "commonsTitle": "File:Horse handicraft of Kerala (2168583056).jpg",
+    "size": "card",
+    "quality": 78,
+    "avifQuality": 54,
+    "focus": "centre",
+    "alt": "Handcrafted wooden horse and other handicrafts from a Kerala antiques shop.",
+    "usage": "Portfolio"
+  },
+  {
+    "file": "toddy-shop.jpg",
+    "out": "kerala-toddy-shop",
+    "width": 3264,
+    "height": 2448,
+    "variants": [
+      {
+        "w": 320,
+        "h": 240,
+        "webp": "kerala-toddy-shop-320.webp",
+        "avif": "kerala-toddy-shop-320.avif",
+        "webpKB": 13.5,
+        "avifKB": 7.5
+      },
+      {
+        "w": 480,
+        "h": 360,
+        "webp": "kerala-toddy-shop-480.webp",
+        "avif": "kerala-toddy-shop-480.avif",
+        "webpKB": 31.7,
+        "avifKB": 16.9
+      },
+      {
+        "w": 720,
+        "h": 540,
+        "webp": "kerala-toddy-shop-720.webp",
+        "avif": "kerala-toddy-shop-720.avif",
+        "webpKB": 72,
+        "avifKB": 38.9
+      },
+      {
+        "w": 960,
+        "h": 720,
+        "webp": "kerala-toddy-shop-960.webp",
+        "avif": "kerala-toddy-shop-960.avif",
+        "webpKB": 124.3,
+        "avifKB": 65.5
+      }
+    ],
+    "commonsTitle": "File:Toddy Shop at Koothattukulam 112953.jpg",
+    "size": "card",
+    "quality": 78,
+    "avifQuality": 54,
+    "focus": "centre",
+    "alt": "A traditional toddy shop in rural Kerala.",
+    "usage": "Blog, Kerala section"
+  },
+  {
+    "file": "fort-kochi-mural.jpg",
+    "out": "kerala-fort-kochi-mural",
+    "width": 1920,
+    "height": 1283,
+    "variants": [
+      {
+        "w": 480,
+        "h": 321,
+        "webp": "kerala-fort-kochi-mural-480.webp",
+        "avif": "kerala-fort-kochi-mural-480.avif",
+        "webpKB": 28.9,
+        "avifKB": 16.3
+      },
+      {
+        "w": 768,
+        "h": 513,
+        "webp": "kerala-fort-kochi-mural-768.webp",
+        "avif": "kerala-fort-kochi-mural-768.avif",
+        "webpKB": 81.3,
+        "avifKB": 40.5
+      },
+      {
+        "w": 1024,
+        "h": 684,
+        "webp": "kerala-fort-kochi-mural-1024.webp",
+        "avif": "kerala-fort-kochi-mural-1024.avif",
+        "webpKB": 161,
+        "avifKB": 76.9
+      },
+      {
+        "w": 1440,
+        "h": 962,
+        "webp": "kerala-fort-kochi-mural-1440.webp",
+        "avif": "kerala-fort-kochi-mural-1440.avif",
+        "webpKB": 368,
+        "avifKB": 166.8
+      }
+    ],
+    "commonsTitle": "File:Fort Kochi - Mural of Na'vi.jpg",
+    "size": "wide",
+    "quality": 70,
+    "avifQuality": 46,
+    "focus": "centre",
+    "alt": "Large painted mural on a wall in Fort Kochi, Kerala.",
+    "usage": "About page, blog"
+  }
+]

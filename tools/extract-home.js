@@ -1,0 +1,10 @@
+const fs = require('fs');
+const path = require('path');
+const ROOT = path.resolve(__dirname, '..');
+const html = fs.readFileSync(path.join(ROOT, 'index.html'), 'utf8');
+const start = html.indexOf('<main id="main">');
+const end = html.lastIndexOf('</main>');
+let body = html.slice(start + '<main id="main">'.length, end);
+fs.mkdirSync(path.join(__dirname, 'pages'), { recursive: true });
+fs.writeFileSync(path.join(__dirname, 'pages', 'home.html'), body.trim() + '\n');
+console.log('extracted', body.length, 'chars');
