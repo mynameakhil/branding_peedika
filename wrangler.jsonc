@@ -1,0 +1,38 @@
+{
+  // ---------------------------------------------------------------------------
+  // Cloudflare Workers configuration — Branding Peedika
+  //
+  // This site is a pure static build: no Worker script, no server-side code.
+  // `assets.directory` points at the repository root so Cloudflare serves the
+  // existing HTML/CSS/JS exactly as built. Omitting `main` deploys an
+  // "assets-only" Worker, which is the supported way to host a static site on
+  // Workers.
+  //
+  // `wrangler.jsonc` is read automatically by `npx wrangler deploy`, which is
+  // the deploy command Workers Builds must run. Setting the deploy command to
+  // anything else (for example ".") leaves the previous "Hello World" Worker
+  // in place.
+  //
+  // Files that must NOT be public are listed in `.assetsignore` next to this
+  // file.
+  // ---------------------------------------------------------------------------
+  "$schema": "https://unpkg.com/wrangler/config-schema.json",
+
+  // Must match the Worker that owns the *.workers.dev URL.
+  "name": "branding-peedika",
+
+  // Set to the date of this configuration change.
+  "compatibility_date": "2026-10-22",
+
+  "assets": {
+    // Serve the repository root as the document root. This keeps the existing
+    // root-relative URLs (/assets/css/styles.css, /about/, ...) working.
+    "directory": ".",
+
+    // Folder index files (/about/index.html) are served at /about/.
+    "html_handling": "auto-trailing-slash",
+
+    // Unmatched paths return the custom 404.html with a 404 status.
+    "not_found_handling": "404-page"
+  }
+}

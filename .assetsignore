@@ -1,0 +1,29 @@
+# ---------------------------------------------------------------------------
+# Cloudflare Workers Assets ignore list
+#
+# Every file in this directory is uploaded as a public static asset unless it
+# matches an entry below. Keep development-only material out of the public site.
+# ---------------------------------------------------------------------------
+
+# Build and audit tooling (never needed to serve the site).
+tools/
+
+# Repository furniture and documentation.
+README.md
+.gitignore
+.git/
+.github/
+
+# Local Wrangler state (build scratch files).
+.wrangler/
+
+# The Wrangler configuration itself is not part of the website.
+wrangler.jsonc
+.assetsignore
+
+# Editor / OS noise, in case a deploy is run from a working copy.
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
