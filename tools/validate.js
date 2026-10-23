@@ -149,7 +149,7 @@ for (const page of PAGES) {
   if (!canonicalMatch) fail('no canonical link');
   else {
     const url = canonicalMatch[1];
-    if (!url.startsWith('https://www.brandingpeedika.com')) {
+    if (!url.startsWith('https://brandingpeedika.in')) {
       warn('canonical does not use the configured domain: ' + url);
     }
     if (canonicals.has(url)) fail('duplicate canonical, also on ' + canonicals.get(url));

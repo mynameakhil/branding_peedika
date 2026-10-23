@@ -24,7 +24,7 @@ window.BP_CONFIG = {
      Used for canonical URLs, Open Graph URLs, sitemap and JSON-LD.
      The sitemap and robots.txt are static files and must be updated by hand
      to match this value. */
-  siteUrl: 'https://www.brandingpeedika.com', // REPLACE with the live domain
+  siteUrl: 'https://brandingpeedika.in', // REPLACE with the live domain
   locale: 'en_IN',
   lang: 'en-IN',
 
@@ -34,7 +34,7 @@ window.BP_CONFIG = {
      While a value is empty the page shows a clearly-labelled placeholder
      instead (see the `data-bp` elements in the HTML). Fill them in and the
      placeholders turn into the real thing automatically. */
-  email: '', // REPLACE: e.g. hello@brandingpeedika.com
+  email: '', // REPLACE: e.g. hello@brandingpeedika.in
   phone: '', // REPLACE: e.g. +91 98765 43210
   whatsapp: '', // REPLACE: e.g. '+91 98765 43210' — shown as written, linked as wa.me/<digits>
   address: '', // REPLACE: business address, if the business has a public address

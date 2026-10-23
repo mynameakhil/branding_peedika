@@ -472,7 +472,7 @@
         if (!input.name) return;
         payload[input.name] = input.type === 'checkbox' ? input.checked : input.value.trim();
       });
-      payload._subject = 'New enquiry from brandingpeedika.com';
+      payload._subject = 'New enquiry from brandingpeedika.in';
 
       if (submit) {
         submit.disabled = true;

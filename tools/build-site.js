@@ -21,7 +21,7 @@ const PARTIALS = path.join(__dirname, 'partials');
 const PAGES_DIR = path.join(__dirname, 'pages');
 const PAGES = require('./pages.js');
 
-const SITE_URL = 'https://www.brandingpeedika.com';
+const SITE_URL = 'https://brandingpeedika.in';
 const OG_IMAGE = `${SITE_URL}/assets/images/og-branding-peedika.png`;
 
 function read(file) {
